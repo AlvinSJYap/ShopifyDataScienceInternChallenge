@@ -8,7 +8,7 @@ import pandas as pd
 path = ".\RawData\DataScienceDataSet1.csv"
 '''
 A AOV value of $3145.13 is very high when considering the price of sneakers. The metric used may be the mean  and the issue 
-that has arrisen is that there are some outliers that are affecting the mean. Using Pandas, we will load in the Raw Data
+that has arisen is that there are some outliers that are affecting the mean. Using Pandas, we will load in the Raw Data
 in a data frame and then look at the Descriptive statistics using the describe() method.
 '''
 raw_df =pd.read_csv(path)
