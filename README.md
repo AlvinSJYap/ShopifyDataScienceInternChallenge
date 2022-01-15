@@ -23,7 +23,7 @@ Libraries Used:
 Tidyverse, GGPlot
 
 Link to RMarkdown GitHub Page: 
-
+https://alvinsjyap.github.io/ShopifyDataScienceInternChallenge/
 
 Python Solution:
 
